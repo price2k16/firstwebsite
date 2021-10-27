@@ -1,0 +1,38 @@
+/*
+
+*/
+body{
+	background-color: blue;
+	
+}
+#wrapper{
+	width: 90%;
+	margin: 0auto;
+}
+.header{
+	padding:20px;
+	background-color:#B2F3EE;
+}
+hl{
+	text-align: center
+}
+
+.sidebar{
+	width: 20%;
+	float: left;
+	background-color: #61ADA7;
+	height: 500px;
+}
+
+.main{
+	width: 80%;
+	float: right;
+	background-image:
+}
+img{
+	float: left;
+	margin: 
+
+.sidebar{
+width: 30%;
+}
