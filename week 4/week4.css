@@ -1,0 +1,30 @@
+table{
+	width: 400px;
+}
+th{
+	text-align:left;
+}
+
+table, th, td{
+	border: 1px solid #000;
+}
+body{
+	background-color: yellow;
+
+}
+
+.img{
+	width: 300px;
+}
+
+@media screen and (max-width: 992px) {
+  body {
+	  background-color: lightblue;
+}
+
+
+@media screen and (max-width: 600px) {
+  body {
+	  background-color: lightgreen;
+  }
+   
